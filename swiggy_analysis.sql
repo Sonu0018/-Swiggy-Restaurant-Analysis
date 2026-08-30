@@ -14,6 +14,14 @@ CREATE TABLE swiggy (
     address VARCHAR(500),
     menu VARCHAR(500)
 );
+
+
+
+
+
+
+
+
 SELECT
     city,
     COUNT(*) AS restaurant_count,
